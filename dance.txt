@@ -1,3 +1,4 @@
 move left move right
 raise your hands now wave
+jump up and down
 do the rainbow dance
